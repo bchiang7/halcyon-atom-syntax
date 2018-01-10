@@ -1,5 +1,9 @@
 # Halcyon Syntax Theme for Atom
 
+[![apm](https://img.shields.io/apm/v/halcyon-syntax.svg?style=flat-square)](https://atom.io/packages/halcyon-syntax)
+[![apm](https://img.shields.io/apm/dm/halcyon-syntax.svg?style=flat-square)](https://atom.io/packages/halcyon-syntax)
+[![apm](https://img.shields.io/apm/l/halcyon-syntax.svg?style=flat-square)](https://atom.io/packages/halcyon-syntax)
+
 ![demo](https://raw.githubusercontent.com/bchiang7/halcyon-atom-syntax/master/images/demo.png)
 
 Pairs well with Atom's One Dark UI Theme
