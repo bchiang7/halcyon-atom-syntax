@@ -1,8 +1,20 @@
-# Halcyon Syntax Theme for Atom
-
-[![apm](https://img.shields.io/apm/v/halcyon-syntax.svg?style=flat-square)](https://atom.io/packages/halcyon-syntax)
-[![apm](https://img.shields.io/apm/dm/halcyon-syntax.svg?style=flat-square)](https://atom.io/packages/halcyon-syntax)
-[![apm](https://img.shields.io/apm/l/halcyon-syntax.svg?style=flat-square)](https://atom.io/packages/halcyon-syntax)
+<p align="center">
+  <img alt="Halcyon" src="https://raw.githubusercontent.com/bchiang7/halcyon-vscode/master/images/logo.png" width="100" />
+</p>
+<h1 align="center">
+  Halcyon Theme for Atom
+</h1>
+<p align="center">
+  A minimal, dark blue theme for VS Code, Sublime Text, Atom, and more.
+</p>
+<p align="center">
+	<a href="https://atom.io/packages/halcyon-syntax">
+		<img alt="apm" src="https://img.shields.io/apm/v/halcyon-syntax.svg?style=flat-square" />
+	</a>
+	<a href="https://atom.io/packages/halcyon-syntax">
+		<img alt="downloads" src="https://img.shields.io/apm/dm/halcyon-syntax.svg?style=flat-square" />
+	</a>
+</p>
 
 ![demo](https://raw.githubusercontent.com/bchiang7/halcyon-atom-syntax/master/images/demo.png)
 
